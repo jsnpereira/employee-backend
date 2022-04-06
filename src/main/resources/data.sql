@@ -1,0 +1,2 @@
+INSERT INTO EMPLOYEES(ID,EMAIL,FIRST_NAME,LAST_NAME) VALUES(1,'jsnpereira@empresa.com','Jeison','Pereira')
+INSERT INTO EMPLOYEES(ID,EMAIL,FIRST_NAME,LAST_NAME) VALUES(2,'patricia@empresa.com','Patricia','Coelho')
